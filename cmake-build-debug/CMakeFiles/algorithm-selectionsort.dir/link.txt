@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/algorithm-selectionsort.dir/src_and_header/main.cpp.o CMakeFiles/algorithm-selectionsort.dir/src_and_header/selectionsort.cpp.o  -o algorithm-selectionsort 

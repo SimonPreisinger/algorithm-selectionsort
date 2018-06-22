@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/simon/projects/algorithm/algorithm-selectionsort/src_and_header/main.cpp
+iostream
+-
+selectionsort.h
+/home/simon/projects/algorithm/algorithm-selectionsort/src_and_header/selectionsort.h
+
+/home/simon/projects/algorithm/algorithm-selectionsort/src_and_header/selectionsort.cpp
+selectionsort.h
+/home/simon/projects/algorithm/algorithm-selectionsort/src_and_header/selectionsort.h
+
+/home/simon/projects/algorithm/algorithm-selectionsort/src_and_header/selectionsort.h
+
